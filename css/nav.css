@@ -1,23 +1,23 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: #1fb58f;
+    background-color: #c9c39d;
     overflow: auto;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #187b34;
+    color: #000;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
     text-transform: capitalize;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .topnav a.hover, .active {
-    background-color: #1fb58f;
+    background-color: #c9c39d;
 }
 
 .topnav .icon {
